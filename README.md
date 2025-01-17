@@ -3,6 +3,7 @@ This is an analysis for Spotify songs released between 1930 - 2023. This dataset
 
 Key Insights:
 
+
 ✔️ Total Streams: Spotify had a total of 489,458,828,542 streamed songs between 1930 - 2023.
 
 ✔️ Most Streamed Song: "Blinding Lights" which is the most streamed song leads with 3.7 billion streams, indicating its massive popularity. Other notable songs include "Shape of You" and "Someone You Loved".
@@ -14,6 +15,7 @@ Key Insights:
 ✔️ Song Appearance In Spotify Charts: "Seven ft Latto" appears 147 times.
 
 Recommendations:
+
 
 ✔️ There should be collaborations with artists of popular songs to leverage their audience.
 
